@@ -13,7 +13,7 @@
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H]
+- Solution URL: [https://github.com/kmarcano3/Frontend-QR-Code-Project.git]
 - Live Site URL: [https://kmarcano3.github.io/Frontend-QR-Code-Project/]
 
 ## My process
